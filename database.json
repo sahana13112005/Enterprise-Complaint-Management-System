@@ -1,0 +1,335 @@
+{
+  "complaints": [
+    {
+      "id": "CMS-2024-8812",
+      "title": "Broken Streetlight - Oak Ave",
+      "category": "Infrastructure",
+      "priority": "Medium",
+      "department": "Urban Development",
+      "status": "Assigned",
+      "assignee": "Urban Development Team",
+      "description": "The main streetlight near Oak Ave intersection is completely flickering and goes blank after 9 PM. It is a major safety hazard for senior citizens.",
+      "citizenEmail": "alex@enterprise.com",
+      "citizenName": "Alex Rivera",
+      "registeredAt": "2026-06-11T10:00:00-07:00",
+      "lastUpdatedAt": "2026-06-13T22:45:00-07:00",
+      "attachments": [],
+      "history": [
+        {
+          "timestamp": "2026-06-11T10:05:00-07:00",
+          "action": "Submitted",
+          "user": "Alex Rivera",
+          "details": "Complaint submitted online."
+        },
+        {
+          "timestamp": "2026-06-12T14:30:00-07:00",
+          "action": "Assigned",
+          "user": "Alex Sterling (Admin)",
+          "details": "Assigned to Urban Development department."
+        }
+      ]
+    },
+    {
+      "id": "CMS-2024-8790",
+      "title": "Waste Collection Missed",
+      "category": "Sanitation",
+      "priority": "High",
+      "department": "Public Works",
+      "status": "Open",
+      "assignee": "Unassigned",
+      "description": "Wastewater disposal trucks have not picked up garbage from Sector 4 for the last 5 days. Severe odor and street dog accumulation.",
+      "citizenEmail": "alex@enterprise.com",
+      "citizenName": "Alex Rivera",
+      "registeredAt": "2026-06-09T08:15:00-07:00",
+      "lastUpdatedAt": "2026-06-13T16:20:00-07:00",
+      "attachments": [],
+      "history": [
+        {
+          "timestamp": "2026-06-09T08:15:00-07:00",
+          "action": "Submitted",
+          "user": "Alex Rivera",
+          "details": "Created via Mobile Portal."
+        }
+      ]
+    },
+    {
+      "id": "CMS-2024-8755",
+      "title": "Pothole Alert - Market St",
+      "category": "Roads & Transport",
+      "priority": "Low",
+      "department": "Maintenance",
+      "status": "Resolved",
+      "assignee": "Maintenance Crew #3",
+      "description": "Huge pothole in front of supermarket has caused three minor bike incidents already. Need cement filling.",
+      "citizenEmail": "alex@enterprise.com",
+      "citizenName": "Alex Rivera",
+      "registeredAt": "2026-06-06T11:20:00-07:00",
+      "lastUpdatedAt": "2026-06-10T15:30:00-07:00",
+      "attachments": [
+        {
+          "name": "pothole_photo.jpg",
+          "size": "1.4 MB",
+          "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCpzYkDn_nq6lQm7hgfOHxs6F-VLiLPdDmnlbsdcz4MG6apbJeEyrmJ1Y-WshaFxOZk68cEbM_Iap5on1zHoe61_uVAsaAjOAUCUHUlEI-PQ1q4aiHmGO5Rq5ECQk8ZsBy7qjHG8YujxJGxZxfA4oh21FHZfPjtPzzI7iKM-RP7NDZpGm8ms8RsJh1vStYFT9sXPk5cAEMoTrttU3bBgdwX1gyJm0v1URDdRpteboOsEX4OwqidqKJ6ZJ7nx5VsqfPAtxWmc-1BozU"
+        }
+      ],
+      "history": [
+        {
+          "timestamp": "2026-06-06T11:20:00-07:00",
+          "action": "Submitted",
+          "user": "Alex Rivera",
+          "details": "Complaint logged with attached photograph proof."
+        },
+        {
+          "timestamp": "2026-06-07T09:00:00-07:00",
+          "action": "Assigned",
+          "user": "Alex Sterling (Admin)",
+          "details": "Assigned to Roads & Highways maintenance."
+        },
+        {
+          "timestamp": "2026-06-10T15:30:00-07:00",
+          "action": "Resolved",
+          "user": "Agent Smith (Agent)",
+          "details": "Pothole repaired. Quality inspector checked and closed the ticket."
+        }
+      ]
+    },
+    {
+      "id": "CMS-2024-8641",
+      "title": "Water Leakage Observation",
+      "category": "Utilities",
+      "priority": "Medium",
+      "department": "Water Board",
+      "status": "In Progress",
+      "assignee": "Water Inspector Mark",
+      "description": "Main pipe crack observed under the pavement of Sector 2 park. Clean drinking water wasting constantly.",
+      "citizenEmail": "alex@enterprise.com",
+      "citizenName": "Alex Rivera",
+      "registeredAt": "2026-05-30T14:40:00-07:00",
+      "lastUpdatedAt": "2026-06-12T11:30:00-07:00",
+      "attachments": [],
+      "history": [
+        {
+          "timestamp": "2026-05-30T14:40:00-07:00",
+          "action": "Submitted",
+          "user": "Alex Rivera",
+          "details": "Logged via web."
+        },
+        {
+          "timestamp": "2026-06-02T10:00:00-07:00",
+          "action": "Status Update",
+          "user": "Agent Smith (Agent)",
+          "details": "Prioritized as Medium. Work scheduled."
+        }
+      ]
+    },
+    {
+      "id": "CMS-2024-8555",
+      "title": "Park Bench Vandalism",
+      "category": "Environment",
+      "priority": "Low",
+      "department": "Parks & Recreation",
+      "status": "Escalated",
+      "assignee": "Security Taskforce",
+      "description": "Severe graffiti and broken wood pieces on central park benches. Teen groups seen painting late at night.",
+      "citizenEmail": "alex@enterprise.com",
+      "citizenName": "Alex Rivera",
+      "registeredAt": "2026-05-24T09:10:00-07:00",
+      "lastUpdatedAt": "2026-06-13T10:00:00-07:00",
+      "attachments": [],
+      "history": [
+        {
+          "timestamp": "2026-05-24T09:10:00-07:00",
+          "action": "Submitted",
+          "user": "Alex Rivera",
+          "details": "Logged by citizen."
+        },
+        {
+          "timestamp": "2026-06-13T10:00:00-07:00",
+          "action": "Escalated",
+          "user": "Agent Smith (Agent)",
+          "details": "Escalated to park security detail for investigation."
+        }
+      ]
+    },
+    {
+      "id": "CMP-1024",
+      "title": "Billing discrepancy on annual subscription",
+      "category": "Finance & Billing",
+      "priority": "High",
+      "department": "Finance & Billing",
+      "status": "New",
+      "assignee": "Unassigned",
+      "description": "Customer reports being charged twice for the premium tier upgrade in October. Receipt details attached.",
+      "citizenEmail": "jane@enterprise.com",
+      "citizenName": "Jane Doe",
+      "registeredAt": "2026-06-13T21:30:00-07:00",
+      "lastUpdatedAt": "2026-06-13T21:30:00-07:00",
+      "attachments": [],
+      "history": [
+        {
+          "timestamp": "2026-06-13T21:30:00-07:00",
+          "action": "Submitted",
+          "user": "Jane Doe",
+          "details": "Auto-ingested via corporate email system."
+        }
+      ]
+    },
+    {
+      "id": "CMP-1028",
+      "title": "Missing loyalty reward points",
+      "category": "Customer Service",
+      "priority": "Low",
+      "department": "Customer Service",
+      "status": "New",
+      "assignee": "Unassigned",
+      "description": "User states that the 500 points promised during the summer event haven't arrived on their loyalty account.",
+      "citizenEmail": "user1@enterprise.com",
+      "citizenName": "Loyal Citizen",
+      "registeredAt": "2026-06-13T18:30:00-07:00",
+      "lastUpdatedAt": "2026-06-13T18:30:00-07:00",
+      "attachments": [],
+      "history": [
+        {
+          "timestamp": "2026-06-13T18:30:00-07:00",
+          "action": "Submitted",
+          "user": "Loyal Citizen",
+          "details": "Submitted via loyalty portal."
+        }
+      ]
+    },
+    {
+      "id": "CMP-1021",
+      "title": "Unable to update payment method",
+      "category": "Customer Service",
+      "priority": "Medium",
+      "department": "Customer Service",
+      "status": "Assigned",
+      "assignee": "Mark Low",
+      "description": "System throwing error 403 when trying to add a new VISA card in the mobile app. Blocked multiple transactions.",
+      "citizenEmail": "visitor@enterprise.com",
+      "citizenName": "Mark Jackson",
+      "registeredAt": "2026-06-12T10:00:00-07:00",
+      "lastUpdatedAt": "2026-06-13T09:00:00-07:00",
+      "attachments": [],
+      "history": [
+        {
+          "timestamp": "2026-06-12T10:00:00-07:00",
+          "action": "Submitted",
+          "user": "Mark Jackson",
+          "details": "Logged via Mobile Helpdesk."
+        },
+        {
+          "timestamp": "2026-06-13T09:00:00-07:00",
+          "action": "Assigned",
+          "user": "Agent Smith (Agent)",
+          "details": "Assigned to specialist Mark Low."
+        }
+      ]
+    },
+    {
+      "id": "CMP-0995",
+      "title": "Data leak notification request",
+      "category": "Technical Support",
+      "priority": "Critical",
+      "department": "Technical Support",
+      "status": "In Progress",
+      "assignee": "Sarah Adams",
+      "description": "Customer concerns regarding recent security announcement and their personal data safety. Needs detailed audit logs.",
+      "citizenEmail": "corporate_partner@enterprise.com",
+      "citizenName": "Enterprise Client",
+      "registeredAt": "2026-06-10T12:00:00-07:00",
+      "lastUpdatedAt": "2026-06-11T14:30:00-07:00",
+      "attachments": [],
+      "history": [
+        {
+          "timestamp": "2026-06-10T12:00:00-07:00",
+          "action": "Submitted",
+          "user": "Enterprise Client",
+          "details": "Escalated Priority 1 ticket via executive channel."
+        },
+        {
+          "timestamp": "2026-06-11T14:30:00-07:00",
+          "action": "Status Update",
+          "user": "Sarah Adams (Agent)",
+          "details": "Analyzing infrastructure audit rails. Scheduled feedback."
+        }
+      ]
+    },
+    {
+      "id": "CMP-1002",
+      "title": "UI text formatting error in French",
+      "category": "Technical Support",
+      "priority": "Low",
+      "department": "Technical Support",
+      "status": "In Progress",
+      "assignee": "John Doe",
+      "description": "Localization bug where button text overflows in the checkout section for European French language setting.",
+      "citizenEmail": "french_agent@enterprise.com",
+      "citizenName": "Jean-Pierre",
+      "registeredAt": "2026-06-12T09:15:00-07:00",
+      "lastUpdatedAt": "2026-06-12T15:00:00-07:00",
+      "attachments": [],
+      "history": [
+        {
+          "timestamp": "2026-06-12T09:15:00-07:00",
+          "action": "Submitted",
+          "user": "Jean-Pierre",
+          "details": "Logged after QA sprint review."
+        },
+        {
+          "timestamp": "2026-06-12T15:00:00-07:00",
+          "action": "Assigned",
+          "user": "Agent Smith (Agent)",
+          "details": "Assigned to localization designer John Doe."
+        }
+      ]
+    },
+    {
+      "id": "CMP-0842",
+      "title": "Request for tax invoice 2023",
+      "category": "Finance & Billing",
+      "priority": "Low",
+      "department": "Finance & Billing",
+      "status": "Resolved",
+      "assignee": "Completed Automation",
+      "description": "Invoice sent and confirmed receipt by the customer via secure email portal.",
+      "citizenEmail": "finance_citizen@enterprise.com",
+      "citizenName": "Taxpayer Citizen",
+      "registeredAt": "2026-05-15T11:00:00-07:00",
+      "lastUpdatedAt": "2026-05-18T10:00:00-07:00",
+      "attachments": [],
+      "history": [
+        {
+          "timestamp": "2026-05-15T11:00:00-07:00",
+          "action": "Submitted",
+          "user": "Taxpayer Citizen",
+          "details": "Invoice request raised."
+        },
+        {
+          "timestamp": "2026-05-18T10:00:00-07:00",
+          "action": "Resolved",
+          "user": "Completed Automation",
+          "details": "Auto-generated invoice dispatched."
+        }
+      ]
+    }
+  ],
+  "notifications": [
+    {
+      "id": "notif-1",
+      "timestamp": "2026-06-13T21:36:00-07:00",
+      "title": "System Maintenance Scheduled",
+      "summary": "The reporting engine will be offline for 2 hours this Sunday at 02:00 AM UTC.",
+      "type": "info",
+      "read": false
+    },
+    {
+      "id": "notif-2",
+      "timestamp": "2026-06-13T19:30:00-07:00",
+      "title": "New High Priority Complaint Submitted",
+      "summary": "Waste Collection Missed ticket escalated in Sector 4.",
+      "type": "warning",
+      "read": false
+    }
+  ]
+}

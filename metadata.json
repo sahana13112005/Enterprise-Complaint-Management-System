@@ -1,0 +1,6 @@
+{
+  "name": "Complaint CMS",
+  "description": "Enterprise-grade complaint management system featuring real-time status tracking, role-based access control, interactive analytics, Kanban boards, and server-side Gemini AI features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
